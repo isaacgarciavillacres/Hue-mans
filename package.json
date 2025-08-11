@@ -1,7 +1,7 @@
 {
-  "name": "edura",
-  "displayName": "kiona-theme",
-  "description": "A beatiful color theme that feels like a blossom",
+  "name": "hue-mans-color-themes",
+  "displayName": "Hue-mans Color Themes",
+  "description": "A thoughtful pack of high-contrast, legible color themes inspired by personalities and self-discovery, in a range of shades for developers.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
@@ -22,5 +22,9 @@
         "path": "./themes/Maia-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaacgarciavillacres/Hue-mans.git"
   }
 }
