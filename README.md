@@ -1,16 +1,35 @@
-# edura README
 
-## Working with Markdown
+# Hue-mans Color Themes
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+> A thoughtful pack of high-contrast, legible color themes for Visual Studio Code, inspired by personalities and self-discovery. Each theme is crafted in unique shades and palettes, ensuring readability, accessibility, and a delightful coding experience for every developer.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## ✨ Features
 
-## For more information
+- Multiple beautiful dark themes, each with its own personality and story
+- Carefully selected colors for high contrast and legibility
+- Designed for accessibility and long coding sessions
+- Great for JavaScript, TypeScript, React, Python, and more
+- Includes themes like **Kiona** and **Maia** (with more to come!)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 🌈 Philosophy
 
-**Enjoy!**
+Hue-mans Color Themes is more than just colors—it's about self-discovery, mood, and making your editor feel like home. Each palette is inspired by different aspects of personality, emotion, and creativity, so you can find the shade that fits your workflow and mood.
+
+## 🚀 Installation
+
+1. Open the Extensions view in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
+2. Search for `Hue-mans Color Themes`
+3. Click **Install**
+4. Select your favorite theme from the Command Palette (`Ctrl+K Ctrl+T`)
+
+## 📸 Previews
+
+_Screenshots coming soon!_
+
+## 📝 Credits & License
+
+Based on the work of Eliver Lara (MIT License, 2017) and extended by Isaac Garcia. See [LICENSE](./LICENSE) for details.
+
+---
+
+Enjoy coding with Hue-mans! If you have feedback or want to contribute, open an issue or pull request on [GitHub](https://github.com/isaacgarciavillacres/Hue-mans).
