@@ -1,0 +1,21 @@
+{
+  "name": "edura",
+  "displayName": "kiona-theme",
+  "description": "A beatiful color theme that feels like a blossom",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kiona",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kiona-color-theme.json"
+      }
+    ]
+  }
+}
