@@ -2,8 +2,9 @@
   "name": "hue-mans-color-themes",
   "publisher": "isaacgarciavillacres",
   "displayName": "Hue-mans Color Themes",
+  "icon": "images/icon.png",
   "description": "A thoughtful pack of high-contrast, legible color themes inspired by personalities and self-discovery, in a range of shades for developers.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.103.0"
   },
